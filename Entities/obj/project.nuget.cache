@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "oyn0Jx1dxVY3gRearg6O/F6v+VIsI9GsrgeAAagugm5qMUY0mqPtDLiChGhK563mCK6SyebmgELs13g708bkCA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\merve\\source\\repos\\ReCapProject\\Entities\\Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\merve\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\merve\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
